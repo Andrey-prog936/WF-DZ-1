@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\bin\Debug\WF DZ 1.exe.config
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\bin\Debug\WF DZ 1.exe
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\bin\Debug\WF DZ 1.pdb
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF DZ 1.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF_DZ_1.Form1.resources
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF_DZ_1.Properties.Resources.resources
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF DZ 1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF DZ 1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF DZ 1.exe
+C:\Users\Hp\source\repos\WF DZ 1\WF DZ 1\obj\Debug\WF DZ 1.pdb
